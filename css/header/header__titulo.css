@@ -1,0 +1,6 @@
+.header__titulo{
+    display: flex;
+    justify-content:center;
+    font-size: xx-large;
+    font-weight: bold;
+}

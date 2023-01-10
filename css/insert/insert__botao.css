@@ -1,0 +1,18 @@
+.insert__botao{
+    background-color:transparent;
+    border:none;
+    cursor: pointer;
+    outline: 0;
+    width: 10%;
+}
+
+.bx-plus-medical{
+    
+    background-color: rgb(139, 14, 223);
+    border-radius:50%;
+    color:white;
+    font-size: 30px;
+    margin-left:10px;
+    padding: 5px;
+
+}

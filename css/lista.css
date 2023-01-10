@@ -1,0 +1,40 @@
+.lista{
+
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.divLi {
+    margin-top: 20px;
+    padding: 10px;
+    background: lightgray;
+    border-radius: 10px;
+    box-shadow: 6px 5px 10px 0px grey;
+    display: flex;
+    align-items: center;
+  }
+  
+  .divLi span {
+    width: 80%;
+    color: dimgray;
+  }
+  
+  .divLi input {
+    width: 10%;
+    outline: none;
+    accent-color: currentcolor;
+  }
+  
+  .divLi i {
+    font-size: 22px;
+    color: brown;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  .line-through {
+    text-decoration: line-through;
+  }

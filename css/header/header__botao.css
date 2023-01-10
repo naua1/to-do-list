@@ -1,0 +1,23 @@
+.header__botao{
+
+    margin-top:-30px ;
+    position:absolute;
+    right:18%;
+
+    background-color:transparent;
+    border:none;
+    cursor: pointer;
+    outline: 0;
+    width: 10%;
+    
+}
+
+.botao{
+    background-color:transparent;
+    border:none;
+    cursor: pointer;
+    outline: 0;
+    width: 10%;
+}
+
+
